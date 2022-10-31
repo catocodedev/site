@@ -1,0 +1,16 @@
+h1{
+    color: #ffffff;
+}
+body{
+    background-color: #000000;
+    font-family: 'Press Start 2P', regular;
+    font-size: 16px;
+}
+a{
+    color: #00ff2a;
+    text-decoration: none;
+}
+a:hover{
+    color: #00ff2a;
+    text-decoration: underline #00ddff;
+}
